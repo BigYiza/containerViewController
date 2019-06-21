@@ -3,7 +3,7 @@
 //  CodoonSport
 //
 //  Created by ZhangYi on 2019/3/8.
-//  Copyright © 2019 Codoon. All rights reserved.
+//  Copyright © 2019 XXxx. All rights reserved.
 //
 
 import Foundation
